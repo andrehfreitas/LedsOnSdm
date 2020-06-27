@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">LedsOnSdm</string>
+    <string name="selecione_o_dispositivo">Selecione o dispositivo</string>
+    <string name="refresh">Atualizar</string>
+    <string name="exit">Sair</string>
+    <string name="led_amarelo">Led amarelo</string>
+    <string name="led_vermelho">Led vermelho</string>
+    <string name="led_verde">Led verde</string>
+    <string name="bluetooth_adapter_needed">Adaptador Bluetooth necessário</string>
+    <string name="impossible_to_continue">Impossível continuar. Aplicativo será fechado.</string>
+    <string name="enabled_bluetooth_adapter_needed">Adaptador bluetooth precisa estar habilitado. Tentar novamente?</string>
+    <string name="bluetooth_permission_needed">Permissão necessária para continuar. Tentar novamente?</string>
+    <string name="busca_iniciada">Busca por dispositivos Bluetooth iniciada.</string>
+</resources>
